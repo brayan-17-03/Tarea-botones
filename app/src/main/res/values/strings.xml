@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Vista1</string>
+    <string name="v1tv1">DATOS</string>
+    <string name="v1tv2">Nombre</string>
+    <string name="v1tv3">Telefono</string>
+    <string name="v1et1h">Dig nombre</string>
+    <string name="v1et2h">Dig telefono</string>
+    <string name="v1btn1">CARGAR</string>
+    <string name="v1btn2">ENVIAR</string>
+    <string name="v1btn3">ADIVINAR</string>
+    <string name="v1tv4">Nombre:  </string>
+    <string name="v1tv5">Telefono: </string>
+
+
+    <string name="v2tv1">DESARROLLADOR</string>
+    <string name="v2btn1">RETORNAR</string>
+
+    <string name="v3tv1">JUEGO ADIVINAR</string>
+    <string name="v3tv2">Número</string>
+    <string name="v3et1h">Dig número</string>
+    <string name="v3btn1">ANALIZAR</string>
+    <string name="v3btn2">RETORNAR</string>
+    <string name="v3btn3">VOLVER A JUGAR</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
